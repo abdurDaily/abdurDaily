@@ -1,7 +1,7 @@
+(https://i.ibb.co/wzqD4Z8/abdurdaily-git.png)
 ## Hi there 👋, my name is Md. Abdur Rahman
 #### full stack web developer
-![full stack web developer](https://i.ibb.co/wzqD4Z8/abdurdaily-git.png)
-
+![full stack web developer]
 I'm a passionate Full Stack Web Developer and faculty member at Creative IT Institute in Bangladesh. 
 
 My expertise lies in crafting dynamic and responsive websites using HTML, CSS, JavaScript. I'm continuously exploring new technologies and methodologies to bring the most effective and engaging learning experiences to my students.
