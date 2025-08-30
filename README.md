@@ -1,26 +1,63 @@
+# Hi there, I'm Abdur 👋  
 
-## Hi there 👋, my name is Md. Abdur Rahman
-#### full stack web developer
-![full stack web developer](https://i.ibb.co/wzqD4Z8/abdurdaily-git.png)
+![Profile Views](https://komarev.com/ghpvc/?username=abdurDaily&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a passionate Full Stack Web Developer and faculty member at Creative IT Institute in Bangladesh. 
+## 🚀 About Me  
+I'm **Abdur**, a passionate **Full-Stack Web Developer** & **Digital Marketer** from Bangladesh 🇧🇩.  
+I love building modern web applications, optimizing SEO, and creating digital solutions that help businesses grow.  
 
-My expertise lies in crafting dynamic and responsive websites using HTML, CSS, JavaScript. I'm continuously exploring new technologies and methodologies to bring the most effective and engaging learning experiences to my students.
+- 🌱 Currently learning **Laravel**, **Vue.js**, and **AI integration**  
+- 💼 Available for **freelance projects** and collaborations  
+- 💬 Ask me about **Laravel, PHP, SEO, Digital Marketing, and Web Design**  
+- 📧 Reach me at **[your-email@example.com]**  
+- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)  
 
-On this platform, I share projects and contributions that reflect my interest in solving complex web development challenges and my dedication to educational excellence. Feel free to delve into my repositories or connect with me here on GitHub to exchange ideas, collaborate, or just chat about the latest web tech trends.
+---
 
-Let's code a better world together!
+## 🛠️ Tech Stack  
 
+### **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Skills: HTML/CSS/BOOTSTRAP/JS/JQUERY/PHP/LARAVEL
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on Creative IT institute in chittagong branch.  
-- 🌱 I’m currently learning React  
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: email: abdurdiary@gmail.com  
+### **Other Tools**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/abdurDaily/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100024372049658)  
+## 📈 GitHub Stats  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+![Abdur's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurDaily&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurDaily&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdurDaily&theme=radical)
 
+---
+
+## 🏆 GitHub Achievements  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=abdurDaily&theme=darkhub&margin-w=10&margin-h=10)
+
+---
+
+## 🌍 Connect With Me  
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+⭐ **Feel free to explore my repositories and drop a star if you like them!**  
