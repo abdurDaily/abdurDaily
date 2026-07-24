@@ -4,7 +4,7 @@
 
 # Hi, I'm Abdur 👋
 
-### Full-Stack Web Developer · Digital Marketer · SEO Specialist
+### Full-Stack Web Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Next.js;SEO+%26+Digital+Marketing+Expert;Passionate+About+Clean+Code;Open+Source+Enthusiast" alt="Typing SVG" />
 
