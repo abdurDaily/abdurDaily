@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.brandboostersbd.com/abdurDaily.png" alt="Abdur's GitHub Banner" width="100%"/>
+<img src="" alt="Abdur's GitHub Banner" width="100%"/>
 
 # Hi, I'm Abdur 👋
 
