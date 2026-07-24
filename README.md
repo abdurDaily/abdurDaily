@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/NykmyfW/modern-github-banner.png" alt="Abdur's GitHub Banner" width="100%"/>
+<img src="https://www.brandboostersbd.com/abdurDaily.png" alt="Abdur's GitHub Banner" width="100%"/>
 
 # Hi, I'm Abdur 👋
 
